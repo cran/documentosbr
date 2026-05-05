@@ -1,7 +1,7 @@
 Package: documentosbr
 Type: Package
 Title: Validate Brazilian Administrative Registers - Valida Documentos
-Version: 0.1.8
+Version: 0.2.0
 Authors@R: c(
     person(
       "Gustavo",
@@ -40,11 +40,11 @@ LinkingTo: Rcpp, BH
 Imports: Rcpp, bit64, stringr, data.table
 VignetteBuilder: knitr
 NeedsCompilation: yes
-Packaged: 2026-03-31 22:04:20 UTC; borges
+Packaged: 2026-04-28 13:53:01 UTC; borges
 Author: Gustavo Coelho [aut],
   Lucas Mation [aut] (ORCID: <https://orcid.org/0000-0002-7461-932X>),
   Rodrigo Borges [ctb, cre] (ORCID:
     <https://orcid.org/0000-0003-2076-1424>),
   Ipea - Institue for Applied Economic Research [cph, fnd]
 Repository: CRAN
-Date/Publication: 2026-04-27 14:30:09 UTC
+Date/Publication: 2026-05-05 11:50:02 UTC
